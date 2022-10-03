@@ -25,7 +25,7 @@
 
 <h3 align="left">» » » 𝗹𝗲𝘁'𝘀 𝗚𝗢</h3>
 <p>
-𝗹𝗲𝘁'𝘀 𝗚𝗢 es el Proyecto Final de carrera en el Bootcamp de Henry, junto a un equipo equipo de estudiantes. En su desarrollo aplicamos las tecnologías y conocimientos aprendidos durante las carrera de Full Stack Developer.
+Esta aplicación es el Proyecto Final y Grupal de la carrera Full Stack Developer, en el Bootcamp de Henry. En su desarrollo implementamos las tecnologías y conocimientos aprendidos durante el cursado.
 </p>
 &nbsp;
 <p>
@@ -53,38 +53,40 @@ La consigna era crear un e-commerce, quisimos ir un poco más allá y encontrar 
 <h3 align="left">» » » 𝗩𝗶𝗱𝗲𝗼𝗴𝗮𝗺𝗲𝘀 𝗔𝗽𝗽</h3>
 
 <p>
-Esta SPA (Single Page Application) la desarrollé como parte del cursado de la carrera de Full Stack Developer en Henry, en la etapa ede Labs como Proyecto Individual
+Esta SPA (Single Page Application) la desarrollé como parte del cursado de la carrera de Full Stack Developer en Henry, en la etapa de Labs como Proyecto Individual.
 </p>
 <p>
 Su objetivo era crear una aplicación web en lenguaje Javascript usando para el Front React, Redux, CSS puro y Back utilizar  en Node.js con Express. La base de datos la trabajé con PostgreSQL y Sequelize y mediante el consumo de datos de una API externa
 </p>
 <p>
 Características:
-- Landing de presentación de Aplicación
-- Paginado en Home para visualizar los videojuegos
-- Cards con detalles principales 
-- Filtros acumulativos
-- Ordenamientos ascendentes y descendentes
-- Card de cada videojuego con información detallada 
-- Búsqueda por nombre
-- Formulario controlado para la creación de nuevos videojuegos
-- Funciones de modificación y borrado para los videojuegos creados
-- Sección informativa sobre la aplicación
+<h5>● Landing de presentación del sitio</h5>
+<h5>● Paginado</h5>
+<h5>● Cards con detalles principales</h5> 
+<h5>● Filtros acumulativos</h5>
+<h5>● Ordenamientos ascendentes y descendentes</h5>
+<h5>● Card de cada videojuego con información detallada</h5> 
+<h5>● Búsqueda por nombre</h5>
+<h5>● Formulario controlado para la creación de nuevos videojuegos</h5>
+<h5>● Funciones para modificar y borrar los videojuegos creados</h5>
+<h5>● Sección informativa sobre la aplicación</h5>
 </p>
 &nbsp;
+
 <p align="center">
 <a href="https://github.com/LuciaMeyer/Video-Games-App"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'> » repositorio</a>
-<!-- <p>
-  <a><img src="https://res.cloudinary.com/pflet/image/upload/v1664821148/Let/GitHub/1letsGO_f0ozqg.png" height='120'></a>
-  <a><img src="https://res.cloudinary.com/pflet/image/upload/v1664821145/Let/GitHub/2letsGO_okinva.png" height='120'></a>
-  <a><img src="https://res.cloudinary.com/pflet/image/upload/v1664821145/Let/GitHub/3letsGO_obsp8u.png" height='120'></a>
+<p align="center">
+  <a><img src="https://res.cloudinary.com/pflet/image/upload/v1664836427/Let/GitHub/Lu/1PI_gg5vip.png" height='120'></a>
+  <a><img src="https://res.cloudinary.com/pflet/image/upload/v1664836423/Let/GitHub/Lu/2PI_di3qdt.png" height='120'></a>
+  <a><img src="https://res.cloudinary.com/pflet/image/upload/v1664836424/Let/GitHub/Lu/3PI_tmbk9c.png" height='120'></a>
 </p>
-<p>
-  <a><img src="https://res.cloudinary.com/pflet/image/upload/v1664821146/Let/GitHub/4letsGO-05_nomlku.png" height='120'></a>
-  <a><img src="https://res.cloudinary.com/pflet/image/upload/v1664821146/Let/GitHub/5letsGO_fvv8bp.png" height='120'></a>
-  <a><img src="https://res.cloudinary.com/pflet/image/upload/v1664821147/Let/GitHub/6letsGO_go0tp0.png" height='120'></a>
-</p> -->
+<p align="center">
+  <a><img src="https://res.cloudinary.com/pflet/image/upload/v1664836420/Let/GitHub/Lu/4PI_xyprep.png" height='120'></a>
+  <a><img src="https://res.cloudinary.com/pflet/image/upload/v1664836425/Let/GitHub/Lu/5PI_jjupw7.png" height='120'></a>
+  <a><img src="https://res.cloudinary.com/pflet/image/upload/v1664836429/Let/GitHub/Lu/6PI_znzpzt.png" height='120'></a>
+</p>
 <hr/>
+
 <h3 align="center">📩 Contacto</h3>
 &nbsp;
 

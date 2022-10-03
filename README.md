@@ -1,5 +1,5 @@
 ![gif](https://github.com/LuciaMeyer/LuciaMeyer/blob/main/assets/gif.gif)
-<h2 align ='center'> » » Full Stack Developer « « </h2>
+<h2 align ='center'> 👋🏼 Hola! soy Lucía </h2>
 <hr/>
 
 <h3 align="center">🖤 Sobre Mi</h3>
@@ -89,6 +89,6 @@ Características:
 &nbsp;
 
 <p align="center">
-<a href="https://www.linkedin.com/in/lucia-meyer-65633a143/"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Felipe Ciro LinkedIn Profile" height="40" width="60" /></a>
-<a href="mailto:luciameyer1603@gmail.com"><img align="center" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="Felipe Ciro Gmail" height="50" width="50" /></a>
+<a href="https://www.linkedin.com/in/lucia-meyer-65633a143/"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Lucia Meyer" height="30" width="50" /></a>
+<a href="mailto:luciameyer1603@gmail.com"><img align="center" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="Lucia Meyer" height="40" width="40" /></a>
 <hr/>

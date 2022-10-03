@@ -1,9 +1,9 @@
 ![gif](https://github.com/LuciaMeyer/LuciaMeyer/blob/main/assets/gif.gif)
-<h2 align ='center'>» » » Full Stack Developer « « «</h2>
+<h2 align ='center'> » » Full Stack Developer « « </h2>
 <hr/>
 
 <h3 align="center">🖤 Sobre Mi</h3>
-<h5>Mi mayor interés dentro del mundo IT es la posibilidad de crear frente a grandes necesidades, soluciones simples e innovadoras. Me apasionan los desafíos, el aprendizaje continuo y el trabajo en equipo</h5>
+<p>Mi mayor interés dentro del mundo IT es la posibilidad de crear frente a grandes necesidades, soluciones simples e innovadoras. Me apasionan los desafíos, el aprendizaje continuo y el trabajo en equipo</p>
 <hr/>
 
 <h3 align="center">⚙ Tecnologías</h3>
@@ -23,13 +23,27 @@
 <h3 align="center">📌 Mis Proyectos</h3>
 <h3 align="left">𝗹𝗲𝘁'𝘀 𝗚𝗢</h3>
 <p>
-Es el Proyecto Final de carrera en el Bootcamp de Henry, junto a un equipo equipo de estudiantes. En su desarrollo aplicamos las tecnologías y conocimientos aprendidos durante las carrera de Full Stack Developer.
+𝗹𝗲𝘁'𝘀 𝗚𝗢 es el Proyecto Final de carrera en el Bootcamp de Henry, junto a un equipo equipo de estudiantes. En su desarrollo aplicamos las tecnologías y conocimientos aprendidos durante las carrera de Full Stack Developer.
 </p>
 &nbsp;
 <p>
 La consigna era crear un e-commerce, quisimos ir un poco más allá y encontrar el diferencial dentro de los modelos de negocios tradicionales, aportando valor agregado y generando fidelización del consumidor con la marca. Sumamos estos objetivos a la premisa de lograr un funcionamiento del sitio intuitivo, rápido y simple para garantizar una buena experiencia del usuario.
 </p>
 &nbsp;
+
 <a href="https://github.com/LetTeam22/lets-GO"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'> » repositorio</a>
 <a href="https://pf-let.vercel.app/"><img src='https://res.cloudinary.com/pflet/image/upload/v1664817186/Let/image/circulo_qvq2fh.png' alt='github' height='40'> » deploy</a>
 <a href="https://www.youtube.com/watch?v=-TOVqECdiIw"><img src='https://res.cloudinary.com/pflet/image/upload/v1664817345/Let/image/video_odffci.png' alt='github' height='40'>» video explicativo</a>
+&nbsp;
+
+<p>
+  <a><img src="https://res.cloudinary.com/pflet/image/upload/v1664821148/Let/GitHub/1letsGO_f0ozqg.png" height='120'></a>
+  <a><img src="https://res.cloudinary.com/pflet/image/upload/v1664821145/Let/GitHub/2letsGO_okinva.png" height='120'></a>
+  <a><img src="https://res.cloudinary.com/pflet/image/upload/v1664821145/Let/GitHub/3letsGO_obsp8u.png" height='120'></a>
+</p>
+<p>
+  <a><img src="https://res.cloudinary.com/pflet/image/upload/v1664821146/Let/GitHub/4letsGO-05_nomlku.png" height='120'></a>
+  <a><img src="https://res.cloudinary.com/pflet/image/upload/v1664821146/Let/GitHub/5letsGO_fvv8bp.png" height='120'></a>
+  <a><img src="https://res.cloudinary.com/pflet/image/upload/v1664821147/Let/GitHub/6letsGO_go0tp0.png" height='120'></a>
+</p>
+

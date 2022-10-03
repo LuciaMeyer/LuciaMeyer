@@ -32,18 +32,18 @@
 La consigna era crear un e-commerce, quisimos ir un poco más allá y encontrar el diferencial dentro de los modelos de negocios tradicionales, aportando valor agregado y generando fidelización del consumidor con la marca. Sumamos estos objetivos a la premisa de lograr un funcionamiento del sitio intuitivo, rápido y simple para garantizar una buena experiencia del usuario.
 </p>
 &nbsp;
-
+<p align="center">
 <a href="https://github.com/LetTeam22/lets-GO"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'> » repositorio</a>
 <a href="https://pf-let.vercel.app/"><img src='https://res.cloudinary.com/pflet/image/upload/v1664817186/Let/image/circulo_qvq2fh.png' alt='github' height='40'> » deploy</a>
 <a href="https://www.youtube.com/watch?v=-TOVqECdiIw"><img src='https://res.cloudinary.com/pflet/image/upload/v1664817345/Let/image/video_odffci.png' alt='github' height='40'>» video explicativo</a>
 &nbsp;
-
-<p>
+  
+<p align="center">
   <a><img src="https://res.cloudinary.com/pflet/image/upload/v1664821148/Let/GitHub/1letsGO_f0ozqg.png" height='120'></a>
   <a><img src="https://res.cloudinary.com/pflet/image/upload/v1664821145/Let/GitHub/2letsGO_okinva.png" height='120'></a>
   <a><img src="https://res.cloudinary.com/pflet/image/upload/v1664821145/Let/GitHub/3letsGO_obsp8u.png" height='120'></a>
 </p>
-<p>
+<p align="center">
   <a><img src="https://res.cloudinary.com/pflet/image/upload/v1664821146/Let/GitHub/4letsGO-05_nomlku.png" height='120'></a>
   <a><img src="https://res.cloudinary.com/pflet/image/upload/v1664821146/Let/GitHub/5letsGO_fvv8bp.png" height='120'></a>
   <a><img src="https://res.cloudinary.com/pflet/image/upload/v1664821147/Let/GitHub/6letsGO_go0tp0.png" height='120'></a>
@@ -72,7 +72,7 @@ Características:
 - Sección informativa sobre la aplicación
 </p>
 &nbsp;
-
+<p align="center">
 <a href="https://github.com/LuciaMeyer/Video-Games-App"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'> » repositorio</a>
 <!-- <p>
   <a><img src="https://res.cloudinary.com/pflet/image/upload/v1664821148/Let/GitHub/1letsGO_f0ozqg.png" height='120'></a>
@@ -83,7 +83,12 @@ Características:
   <a><img src="https://res.cloudinary.com/pflet/image/upload/v1664821146/Let/GitHub/4letsGO-05_nomlku.png" height='120'></a>
   <a><img src="https://res.cloudinary.com/pflet/image/upload/v1664821146/Let/GitHub/5letsGO_fvv8bp.png" height='120'></a>
   <a><img src="https://res.cloudinary.com/pflet/image/upload/v1664821147/Let/GitHub/6letsGO_go0tp0.png" height='120'></a>
-</p>
-<hr/> -->
+</p> -->
+<hr/>
+<h3 align="center">📩 Contacto</h3>
+&nbsp;
 
-
+<p align="center">
+<a href="https://www.linkedin.com/in/lucia-meyer-65633a143/"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Felipe Ciro LinkedIn Profile" height="40" width="60" /></a>
+<a href="mailto:luciameyer1603@gmail.com"><img align="center" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="Felipe Ciro Gmail" height="50" width="50" /></a>
+<hr/>

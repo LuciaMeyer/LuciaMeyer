@@ -1,12 +1,11 @@
 ![gif](https://github.com/LuciaMeyer/LuciaMeyer/blob/main/assets/gif.gif)
-<h2 align ='center'> 👋🏼 Hola! soy Lucía </h2>
 <hr/>
 
-<h3 align="center">🖤 Sobre Mi</h3>
-<p>Mi mayor interés dentro del mundo IT es la posibilidad de crear frente a grandes necesidades, soluciones simples e innovadoras. Me apasionan los desafíos, el aprendizaje continuo y el trabajo en equipo</p>
+<h3 align="center">✔️ Sobre Mi</h3>
+<p>Soy Full Stack Developer con formación en Diseño. Mi mayor interés dentro del mundo IT es la posibilidad de crear frente a grandes necesidades, soluciones simples e innovadoras. Me apasionan los desafíos, el aprendizaje continuo y el trabajo en equipo</p>
 <hr/>
 
-<h3 align="center">⚙ Tecnologías</h3>
+<h3 align="center">🛠️ Tecnologías y Herramientas</h3>
 <p align="center">
 <a href="https://www.w3.org/html/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/600px-HTML5_Badge.svg.png" alt="html5" width="40" height="40"/></a>&nbsp;
 <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/121-css3-512.png" alt="css3" width="40" height="40"/> </a>&nbsp;
@@ -60,16 +59,16 @@ Su objetivo era crear una aplicación web en lenguaje Javascript usando para el 
 </p>
 <p>
 Características:
-<h5>● Landing de presentación del sitio</h5>
-<h5>● Paginado</h5>
-<h5>● Cards con detalles principales</h5> 
-<h5>● Filtros acumulativos</h5>
-<h5>● Ordenamientos ascendentes y descendentes</h5>
-<h5>● Card de cada videojuego con información detallada</h5> 
-<h5>● Búsqueda por nombre</h5>
-<h5>● Formulario controlado para la creación de nuevos videojuegos</h5>
-<h5>● Funciones para modificar y borrar los videojuegos creados</h5>
-<h5>● Sección informativa sobre la aplicación</h5>
+<h5>» Landing de presentación del sitio</h5>
+<h5>» Paginado</h5>
+<h5>» Cards con detalles principales</h5> 
+<h5>» Filtros acumulativos</h5>
+<h5>» Ordenamientos ascendentes y descendentes</h5>
+<h5>» Card de cada videojuego con información detallada</h5> 
+<h5>» Búsqueda por nombre</h5>
+<h5>» Formulario controlado para la creación de nuevos videojuegos</h5>
+<h5>» Funciones para modificar y borrar los videojuegos creados</h5>
+<h5>» Sección informativa sobre la aplicación</h5>
 </p>
 &nbsp;
 

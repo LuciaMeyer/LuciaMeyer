@@ -33,20 +33,20 @@ En este proyecto pudimos además recrear un entorno real de trabajo colaborativo
 
 ```
 INCLUYE
-- Autenticación ⇢ #Auth0
-- Notificaciones y mailing ⇢ #Socketio #EmailJS
-- Almacenamiento multimedia ⇢ #Cloudinary
-- Persistencia de datos ⇢ #LocalStorage
-- Diseño responsive ⇢ #CCSModules #MaterialUI #Figma
-- Pasarela de pagos ⇢ #MercadoPago
+- Autenticación ⇢ Auth0
+- Notificaciones y mailing ⇢ Socketio - EmailJS
+- Almacenamiento multimedia ⇢ Cloudinary
+- Persistencia de datos ⇢ LocalStorage
+- Diseño responsive ⇢ CCSModules - MaterialUI - Figma
+- Pasarela de pagos ⇢ MercadoPago
 - Reviews a través de posteo de experiencias
 - Filtros y ordenamientos combinados
 - Bot de ayuda al usuario
 - Dashboard de administrador completo
 ```
 
-[Vistitar Sitio](https://github.com/LetTeam22/lets-GO) - 
-[Repositorio](https://pf-let.vercel.app/) - 
+[Vistitar Sitio](https://pf-let.vercel.app/) - 
+[Repositorio](https://github.com/LetTeam22/lets-GO) - 
 [Video Funcionalidades](https://www.youtube.com/watch?v=-TOVqECdiIw)
 
 <a href="https://www.youtube.com/watch?v=-TOVqECdiIw" target="_blank">
@@ -72,6 +72,10 @@ CARACTERÍSTICAS
 - Formulario controlado para la creación de nuevos videojuegos
 - Funcionalidad para modificar o eliminar los videojuegos creados
 ```
+[Vistitar Sitio](https://github.com/LuciaMeyer/Videogames_app/tree/master) - 
+[Repositorio](https://cliente-videogames.onrender.com/) - 
+[Video Funcionalidades](https://www.youtube.com/watch?v=eN4L032QNhw&feature=youtu.be)
+
 <a href="https://www.youtube.com/watch?v=eN4L032QNhw&feature=youtu.be" target="_BLANK"><img src="https://res.cloudinary.com/pflet/image/upload/v1685997746/Let/GitHub/Lu/pi_video_hdltju.png" alt="img" style="width: 50%;"/></a> 
 <hr/>
 

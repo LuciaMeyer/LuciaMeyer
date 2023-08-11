@@ -1,4 +1,4 @@
-![gif](https://github.com/LuciaMeyer/LuciaMeyer/blob/main/assets/gif.gif)
+![gif](https://github.com/LuciaMeyer/LuciaMeyer/blob/main/assets/gif1.gif)
 <hr/>
 
 ### ✔️ Sobre Mi

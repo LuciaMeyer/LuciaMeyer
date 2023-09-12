@@ -89,11 +89,3 @@ CARACTERÍSTICAS
 <img align="center" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="Lucia Meyer" height="20" width="40" /> [Mail](mailto:luciameyer1603@gmail.com)
 
 <hr/>
-
-### 📩 Contacto
-
-
-<img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Lucia Meyer" height="20" width="40" /> [LinkedIn](https://www.linkedin.com/in/lucia-meyer-65633a143/)
-
-<img align="center" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="Lucia Meyer" height="20" width="40" /> [Mail](mailto:luciameyer1603@gmail.com)
-<hr/>

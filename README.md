@@ -36,12 +36,14 @@ Soy Full Stack Developer con formación en Diseño. Mi mayor interés dentro del
 
 MGO) Odontología es un sitio web moderno y responsivo diseñado para Meyer Gulisano Odontología, ofreciendo una solución personalizada para el sector odontológico. Se adapta a las necesidades del cliente, destacando la comunicación clara y alineada con su identidad corporativa, a través de un diseño de logo institucional y la redacción de textos específicos.
 
+```
 👉 Lenguaje: JavaScript
 👉 Frontend: React.js – Next.js 14 – Bootstrap 5.x
-👉 Librerías destacadas: React CountUp – React Swiper – React Modal Video – React Datepicker
+👉 Librerías destacadas: React CountUp – React Swiper
+```
 
 ```
-INCLUYE
+CARACTERÍSTICAS
 - Diseño de logo institucional y imagen de marca
 - Redacción y adaptación de textos según cliente
 - Navegación fluida y amigable en dispositivos móviles
@@ -60,11 +62,13 @@ INCLUYE
 
 Travel es una aplicación sencilla y visualmente atractiva que presenta una selección de destinos a través de videos. Al navegar por la página, los títulos de los destinos aparecen junto con su respectivo video, que se puede reproducir directamente en la página. Además, se ofrece la opción de ver los videos en pantalla completa para una experiencia más inmersiva. Incluye la creación de la identidad visual y el diseño de marca.
 
+```
 👉 Lenguaje: TypeScript  
 👉 Frontend: React - Next.js - Tailwind CSS
+```
 
 ```
-INCLUYE
+CARACTERÍSTICAS
 - Despliegue dinámico de títulos y videos
 - Reproducción de video dentro de la página
 - Opción de pantalla completa para los videos
@@ -80,12 +84,14 @@ INCLUYE
 
 LM Dev & Design es un portafolio personal que refleja mi experiencia y habilidades en desarrollo y diseño. Se trata de una single-page application (SPA) con secciones organizadas de manera fluida, sin un menú de navegación tradicional por rutas, permitiendo una experiencia de usuario dinámica y continua. Incluye la creación de la identidad visual y el diseño de marca.
 
+```
 👉 Lenguaje: TypeScript  
 👉 Frontend: React - Next.js - Tailwind CSS  
-👉 Librerías destacadas: Framer Motion - Typewriter Effect - React Scroll - SweetAlert - EmailJS  
+👉 Librerías destacadas: Framer Motion - Typewriter Effect - React Scroll - SweetAlert - EmailJS
+```
 
 ```
-INCLUYE
+CARACTERÍSTICAS
 - Diseño de marca propio
 - Animaciones con Framer Motion
 - Dark/Light Mode con Next Themes
@@ -103,13 +109,15 @@ INCLUYE
 
 Este proyecto es el Trabajo Final Grupal del Bootcamp Full Stack Developer de Henry. Utilizamos las tecnologías aprendidas para desarrollar un ecommerce de alquiler temporal de bicicletas, accesorios y packs de aventuras, según calendario y stock disponible. Además, replicamos un entorno de trabajo colaborativo con #GitHub y metodología #Scrum.
 
+```
 👉 Lenguaje: JavaScript
 👉 Front: React - Redux
 👉 Back: Node.js - Express
 👉 Base de datos: PostgreSQL - Sequelize
+```
 
 ```
-INCLUYE
+CARACTERÍSTICAS
 - Autenticación ⇢ Auth0
 - Notificaciones y mailing ⇢ Socketio - EmailJS
 - Almacenamiento multimedia ⇢ Cloudinary
@@ -130,11 +138,12 @@ INCLUYE
 
 Esta SPA (Single Page Application) se desarrolló como parte del cursado de la carrera de Full Stack Developer, en la etapa de Proyecto Individual. Su objetivo es el desarrollo de una aplicación web que consume datos de una API externa y consultas a la base de datos propia.
 
+```
 👉 Lenguaje: JavaScript
 👉 Front: React - Redux - CSS puro
 👉 Back: Node.js - Express
 👉 Base de datos: PostgreSQL - Sequelize
-
+```
 ```
 CARACTERÍSTICAS
 - Paginado

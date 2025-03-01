@@ -134,7 +134,7 @@ CARACTERÍSTICAS
 </a>
 <br/><br/>
 
-#### ➜ Videogames App - agosto 2022 &nbsp; &nbsp; &nbsp; [Web](https://cliente-videogames.onrender.com/) - [Repositorio](https://github.com/LuciaMeyer/Videogames_app/tree/master)  - [Video Funcionalidades](https://www.youtube.com/watch?v=eN4L032QNhw&feature=youtu.be)
+#### ➜ Videogames App - agosto 2022 &nbsp; &nbsp; &nbsp; [Web](https://appvideogames.up.railway.app/) - [Repositorio](https://github.com/LuciaMeyer/Videogames_app/tree/master)  - [Video Funcionalidades](https://www.youtube.com/watch?v=eN4L032QNhw&feature=youtu.be)
 
 Esta SPA (Single Page Application) se desarrolló como parte del cursado de la carrera de Full Stack Developer, en la etapa de Proyecto Individual. Su objetivo es el desarrollo de una aplicación web que consume datos de una API externa y consultas a la base de datos propia.
 

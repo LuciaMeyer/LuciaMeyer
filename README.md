@@ -25,18 +25,65 @@ Soy Full Stack Developer con formación en Diseño. Mi mayor interés dentro del
 <a href="https://www.adobe.com/products/illustrator.html" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/f/fb/Adobe_Illustrator_CC_icon.svg" alt="Illustrator" width="40" height="40"/></a>&nbsp;
 <a href="https://www.adobe.com/products/photoshop.html" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg" alt="Photoshop" width="40" height="40"/></a>&nbsp;
 <a href="https://www.adobe.com/products/premiere.html" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/4/40/Adobe_Premiere_Pro_CC_icon.svg" alt="Premiere Pro" width="40" height="40"/></a>&nbsp;
-
 <hr/>
 
 ### ✔️ Mis Proyectos
 
-| Proyecto | Imagen | Descripción | Tecnologías y Librerías | Repositorio | Web | Video |
-|----------|--------|-------------|-------------|-------------|-----|-------|
-| **MGO Odontología**<br/>_Febrero 2025_ | <img src="https://res.cloudinary.com/dw272kava/image/upload/v1740153667/Projects/mgo_rqzvlv.png" width="500"/> | Sitio web institucional para Meyer Gulisano Odontología. Diseño de marca, redacción de textos y desarrollo personalizado. | ```JavaScript – React.js – Next.js 14 – Bootstrap 5.x – React CountUp – React Swiper``` | [Repositorio](https://github.com/LuciaMeyer/MGO) | [Web](https://meyergulisano-odontologia.vercel.app/) | – |
-| **Travel**<br/>_Diciembre 2023_ | <img src="https://res.cloudinary.com/dw272kava/image/upload/v1740153762/Projects/travel2_m6to6t.png" width="500px"> | Aplicación visual y sencilla que presenta una selección de destinos mediante videos reproducibles dentro de la misma página. Incluye diseño de marca e identidad visual. | ```TypeScript - React – Next.js – Tailwind CSS ```| [Repositorio](https://github.com/LuciaMeyer/travel) | [Web](https://sebalutravel.vercel.app/) | — |
-| **LM Dev & Design**<br/>_Noviembre 2023_ | <img src="https://res.cloudinary.com/dw272kava/image/upload/v1740151011/Projects/LM_ecje4f.png" width="500px"> | Portafolio personal que refleja experiencia y habilidades en desarrollo y diseño. SPA fluida sin navegación por rutas, con identidad visual y diseño de marca propios. | ```TypeScript - React – Next.js – Tailwind CSS - Framer Motion – Typewriter Effect – React Scroll – SweetAlert – EmailJS ```| [Repositorio](https://github.com/LuciaMeyer/Portfolio-lm) | [Web](https://luciameyer.vercel.app/) | — |
-| **let's GO**<br/>_Octubre 2022_ | <img src="https://res.cloudinary.com/pflet/image/upload/v1686013738/pf_video_zmqnp9.png" width="500px"> | Ecommerce grupal de alquiler temporal de bicicletas, accesorios y packs de aventuras, con calendario y stock. Proyecto final del bootcamp Henry con trabajo colaborativo en entorno Scrum. | ```JavaScript - React – Redux - Node.js – Express - PostgreSQL – Sequelize``` | [Repositorio](https://github.com/LetTeam22/lets-GO) | [Web](https://pf-let.vercel.app/) | [Video](https://www.youtube.com/watch?v=-TOVqECdiIw) |
-| **Videogames App**<br/>_Agosto 2022_ | <img src="https://res.cloudinary.com/pflet/image/upload/v1685997746/Let/GitHub/Lu/pi_video_hdltju.png" width="500px"> | SPA desarrollada como proyecto individual que consume datos desde una API externa y también realiza consultas a base de datos propia. | ```JavaScript - React – Redux – CSS Puro - Node.js – Express - PostgreSQL – Sequelize``` | [Repositorio](https://github.com/LuciaMeyer/Videogames_app/tree/master) | [Web](https://appvideogames.up.railway.app/) | [Video](https://www.youtube.com/watch?v=eN4L032QNhw&feature=youtu.be) |
+#### **➜ MGO Odontología** ```Febrero 2025```
+Sitio web institucional para Meyer Gulisano Odontología. Diseño de marca, redacción de textos y desarrollo personalizado.  
+[Repositorio](https://github.com/LuciaMeyer/MGO) | [Web](https://meyergulisano-odontologia.vercel.app/)
+
+<img src="https://res.cloudinary.com/dw272kava/image/upload/v1740153667/Projects/mgo_rqzvlv.png" alt="MGO" style="width:40%;" />
+
+**Tecnologías:**  
+`JavaScript – React.js – Next.js 14 – Bootstrap 5.x – React CountUp – React Swiper`
+
+⸻⸻⸻⸻
+
+#### **➜ Travel** ```_Diciembre 2023_```
+Aplicación visual y sencilla que presenta una selección de destinos mediante videos reproducibles dentro de la misma página. Incluye diseño de marca e identidad visual.  
+[Repositorio](https://github.com/LuciaMeyer/travel) | [Web](https://sebalutravel.vercel.app/)
+
+<img src="https://res.cloudinary.com/dw272kava/image/upload/v1740153762/Projects/travel2_m6to6t.png" alt="Travel" style="width:40%;" />
+
+**Tecnologías:**  
+`TypeScript - React – Next.js – Tailwind CSS`
+
+⸻⸻⸻⸻
+
+#### **➜ LM Dev & Design** ```_Noviembre 2023_```
+Portafolio personal que refleja experiencia y habilidades en desarrollo y diseño. SPA fluida sin navegación por rutas, con identidad visual y diseño de marca propios.  
+[Repositorio](https://github.com/LuciaMeyer/Portfolio-lm) | [Web](https://luciameyer.vercel.app/)
+
+<img src="https://res.cloudinary.com/dw272kava/image/upload/v1740151011/Projects/LM_ecje4f.png" alt="LM Dev & Design" style="width:40%;" />
+
+**Tecnologías:**  
+`TypeScript - React – Next.js – Tailwind CSS`  
+**Librerías:**  
+`Framer Motion – Typewriter Effect – React Scroll – SweetAlert – EmailJS`
+
+⸻⸻⸻⸻
+
+#### **➜ let's GO** ```_Octubre 2022_```
+Ecommerce grupal de alquiler temporal de bicicletas, accesorios y packs de aventuras, con calendario y stock. Proyecto final del bootcamp Henry con trabajo colaborativo en entorno Scrum.  
+[Repositorio](https://github.com/LetTeam22/lets-GO) | [Web](https://pf-let.vercel.app/) | [Video](https://www.youtube.com/watch?v=-TOVqECdiIw)
+
+<img src="https://res.cloudinary.com/pflet/image/upload/v1686013738/pf_video_zmqnp9.png" alt="let's GO" style="width:40%;" />
+
+**Tecnologías:**  
+`JavaScript - React – Redux - Node.js – Express - PostgreSQL – Sequelize`
+
+
+⸻⸻⸻⸻
+
+#### **➜ Videogames App** ```_Agosto 2022_```
+SPA desarrollada como proyecto individual que consume datos desde una API externa y también realiza consultas a base de datos propia.  
+[Repositorio](https://github.com/LuciaMeyer/Videogames_app/tree/master) | [Web](https://appvideogames.up.railway.app/) | [Video](https://www.youtube.com/watch?v=eN4L032QNhw&feature=youtu.be)
+
+<img src="https://res.cloudinary.com/pflet/image/upload/v1685997746/Let/GitHub/Lu/pi_video_hdltju.png" alt="Videogames App" style="width:40%;" />
+
+**Tecnologías:**  
+`JavaScript - React – Redux – CSS Puro - Node.js – Express - PostgreSQL – Sequelize`
 <br/>
 <hr/>
 

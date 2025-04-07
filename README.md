@@ -29,143 +29,21 @@ Soy Full Stack Developer con formación en Diseño. Mi mayor interés dentro del
 <hr/>
 
 ### ✔️ Mis Proyectos
-<br/>
 
-
-#### ➜ MGO ) Odontología  - febrero 2025 &nbsp; &nbsp; &nbsp; [Web](https://meyergulisano-odontologia.vercel.app/) - [Repositorio](https://github.com/LuciaMeyer/MGO)
-
-MGO) Odontología es un sitio web moderno y responsivo diseñado para Meyer Gulisano Odontología, ofreciendo una solución personalizada para el sector odontológico. Se adapta a las necesidades del cliente, destacando la comunicación clara y alineada con su identidad corporativa, a través de un diseño de logo institucional y la redacción de textos específicos.
-
-```
-👉 Lenguaje: JavaScript
-👉 Frontend: React.js – Next.js 14 – Bootstrap 5.x
-👉 Librerías destacadas: React CountUp – React Swiper
-```
-
-```
-CARACTERÍSTICAS
-- Diseño de logo institucional y imagen de marca
-- Redacción y adaptación de textos según cliente
-- Navegación fluida y amigable en dispositivos móviles
-- 100% Responsivo optimizado para todos los tamaños de pantalla
-- Contadores animados con React CountUp
-- Sliders y carruseles con React Swiper
-- Selectores de fecha con React Datepicker
-```
-<a href="https://meyergulisano-odontologia.vercel.app/" target="_blank">
-  <img src="https://res.cloudinary.com/dw272kava/image/upload/v1740153667/Projects/mgo_rqzvlv.png" alt="LM Dev & Design" style="width: 50%;">
-</a>
-<br/><br/>
-
-
-#### ➜ Travel - diciembre 2023 &nbsp; &nbsp; &nbsp; [Web](https://sebalutravel.vercel.app/) - [Repositorio](https://github.com/LuciaMeyer/travel)
-
-Travel es una aplicación sencilla y visualmente atractiva que presenta una selección de destinos a través de videos. Al navegar por la página, los títulos de los destinos aparecen junto con su respectivo video, que se puede reproducir directamente en la página. Además, se ofrece la opción de ver los videos en pantalla completa para una experiencia más inmersiva. Incluye la creación de la identidad visual y el diseño de marca.
-
-```
-👉 Lenguaje: TypeScript  
-👉 Frontend: React - Next.js - Tailwind CSS
-```
-
-```
-CARACTERÍSTICAS
-- Despliegue dinámico de títulos y videos
-- Reproducción de video dentro de la página
-- Opción de pantalla completa para los videos
-- Diseño responsive optimizado con Tailwind CSS
-```
-<a href="https://sebalutravel.vercel.app/" target="_blank">
-  <img src="https://res.cloudinary.com/dw272kava/image/upload/v1740153762/Projects/travel2_m6to6t.png" alt="Travel" style="width: 50%;">
-</a>
-<br/><br/>
-
-
-#### ➜ LM Dev & Design - noviembre 2023 &nbsp; &nbsp; &nbsp; [Web](https://luciameyer.vercel.app/) -  [Repositorio](https://github.com/LuciaMeyer/Portfolio-lm)
-
-LM Dev & Design es un portafolio personal que refleja mi experiencia y habilidades en desarrollo y diseño. Se trata de una single-page application (SPA) con secciones organizadas de manera fluida, sin un menú de navegación tradicional por rutas, permitiendo una experiencia de usuario dinámica y continua. Incluye la creación de la identidad visual y el diseño de marca.
-
-```
-👉 Lenguaje: TypeScript  
-👉 Frontend: React - Next.js - Tailwind CSS  
-👉 Librerías destacadas: Framer Motion - Typewriter Effect - React Scroll - SweetAlert - EmailJS
-```
-
-```
-CARACTERÍSTICAS
-- Diseño de marca propio
-- Animaciones con Framer Motion
-- Dark/Light Mode con Next Themes
-- Formulario de contacto con EmailJS
-- Efectos visuales interactivos con Atropos y TSParticles
-- Scroll suave entre secciones
-- Diseño responsive optimizado con Tailwind CSS
-```
-<a href="https://luciameyer.vercel.app/" target="_blank">
-  <img src="https://res.cloudinary.com/dw272kava/image/upload/v1740151011/Projects/LM_ecje4f.png" alt="LM Dev & Design" style="width: 50%;">
-</a>
-<br/><br/>
-
-#### ➜ let's GO - octubre 2022 &nbsp; &nbsp; &nbsp; [Web](https://pf-let.vercel.app/) - [Repositorio](https://github.com/LetTeam22/lets-GO) - [Video Funcionalidades](https://www.youtube.com/watch?v=-TOVqECdiIw)
-
-Este proyecto es el Trabajo Final Grupal del Bootcamp Full Stack Developer de Henry. Utilizamos las tecnologías aprendidas para desarrollar un ecommerce de alquiler temporal de bicicletas, accesorios y packs de aventuras, según calendario y stock disponible. Además, replicamos un entorno de trabajo colaborativo con #GitHub y metodología #Scrum.
-
-```
-👉 Lenguaje: JavaScript
-👉 Front: React - Redux
-👉 Back: Node.js - Express
-👉 Base de datos: PostgreSQL - Sequelize
-```
-
-```
-CARACTERÍSTICAS
-- Autenticación ⇢ Auth0
-- Notificaciones y mailing ⇢ Socketio - EmailJS
-- Almacenamiento multimedia ⇢ Cloudinary
-- Persistencia de datos ⇢ LocalStorage
-- Diseño responsive ⇢ CCSModules - MaterialUI - Figma
-- Pasarela de pagos ⇢ MercadoPago
-- Reviews a través de posteo de experiencias
-- Filtros y ordenamientos combinados
-- Bot de ayuda al usuario
-- Dashboard de administrador completo
-```
-<a href="https://www.youtube.com/watch?v=-TOVqECdiIw" target="_blank">
-  <img src="https://res.cloudinary.com/pflet/image/upload/v1686013738/pf_video_zmqnp9.png" alt="img" style="width: 50%;">
-</a>
-<br/><br/>
-
-#### ➜ Videogames App - agosto 2022 &nbsp; &nbsp; &nbsp; [Web](https://appvideogames.up.railway.app/) - [Repositorio](https://github.com/LuciaMeyer/Videogames_app/tree/master)  - [Video Funcionalidades](https://www.youtube.com/watch?v=eN4L032QNhw&feature=youtu.be)
-
-Esta SPA (Single Page Application) se desarrolló como parte del cursado de la carrera de Full Stack Developer, en la etapa de Proyecto Individual. Su objetivo es el desarrollo de una aplicación web que consume datos de una API externa y consultas a la base de datos propia.
-
-```
-👉 Lenguaje: JavaScript
-👉 Front: React - Redux - CSS puro
-👉 Back: Node.js - Express
-👉 Base de datos: PostgreSQL - Sequelize
-```
-```
-CARACTERÍSTICAS
-- Paginado
-- Filtros acumulativos
-- Ordenamientos ascendentes y descendentes
-- Sección con información detallada
-- Búsqueda por nombre
-- Formulario controlado para la creación de nuevos videojuegos
-- Funcionalidad para modificar o eliminar los videojuegos creados
-```
-[Vistitar Sitio](https://appvideogames.up.railway.app/) -
-[Repositorio](https://github.com/LuciaMeyer/Videogames_app/tree/master)  - 
-[Video Funcionalidades](https://www.youtube.com/watch?v=eN4L032QNhw&feature=youtu.be)
-
-<a href="https://www.youtube.com/watch?v=eN4L032QNhw&feature=youtu.be" target="_BLANK"><img src="https://res.cloudinary.com/pflet/image/upload/v1685997746/Let/GitHub/Lu/pi_video_hdltju.png" alt="img" style="width: 50%;"/></a> 
+| Proyecto | Imagen | Descripción | Tecnologías y Librerías | Repositorio | Web | Video |
+|----------|--------|-------------|-------------|-------------|-----|-------|
+| **MGO Odontología**<br/>_Febrero 2025_ | <img src="https://res.cloudinary.com/dw272kava/image/upload/v1740153667/Projects/mgo_rqzvlv.png" width="500"/> | Sitio web institucional para Meyer Gulisano Odontología. Diseño de marca, redacción de textos y desarrollo personalizado. | ```JavaScript – React.js – Next.js 14 – Bootstrap 5.x – React CountUp – React Swiper``` | [Repositorio](https://github.com/LuciaMeyer/MGO) | [Web](https://meyergulisano-odontologia.vercel.app/) | – |
+| **Travel**<br/>_Diciembre 2023_ | <img src="https://res.cloudinary.com/dw272kava/image/upload/v1740153762/Projects/travel2_m6to6t.png" width="500px"> | Aplicación visual y sencilla que presenta una selección de destinos mediante videos reproducibles dentro de la misma página. Incluye diseño de marca e identidad visual. | ```TypeScript - React – Next.js – Tailwind CSS ```| [Repositorio](https://github.com/LuciaMeyer/travel) | [Web](https://sebalutravel.vercel.app/) | — |
+| **LM Dev & Design**<br/>_Noviembre 2023_ | <img src="https://res.cloudinary.com/dw272kava/image/upload/v1740151011/Projects/LM_ecje4f.png" width="500px"> | Portafolio personal que refleja experiencia y habilidades en desarrollo y diseño. SPA fluida sin navegación por rutas, con identidad visual y diseño de marca propios. | ```TypeScript - React – Next.js – Tailwind CSS - Framer Motion – Typewriter Effect – React Scroll – SweetAlert – EmailJS ```| [Repositorio](https://github.com/LuciaMeyer/Portfolio-lm) | [Web](https://luciameyer.vercel.app/) | — |
+| **let's GO**<br/>_Octubre 2022_ | <img src="https://res.cloudinary.com/pflet/image/upload/v1686013738/pf_video_zmqnp9.png" width="500px"> | Ecommerce grupal de alquiler temporal de bicicletas, accesorios y packs de aventuras, con calendario y stock. Proyecto final del bootcamp Henry con trabajo colaborativo en entorno Scrum. | ```JavaScript - React – Redux - Node.js – Express - PostgreSQL – Sequelize``` | [Repositorio](https://github.com/LetTeam22/lets-GO) | [Web](https://pf-let.vercel.app/) | [Video](https://www.youtube.com/watch?v=-TOVqECdiIw) |
+| **Videogames App**<br/>_Agosto 2022_ | <img src="https://res.cloudinary.com/pflet/image/upload/v1685997746/Let/GitHub/Lu/pi_video_hdltju.png" width="500px"> | SPA desarrollada como proyecto individual que consume datos desde una API externa y también realiza consultas a base de datos propia. | ```JavaScript - React – Redux – CSS Puro - Node.js – Express - PostgreSQL – Sequelize``` | [Repositorio](https://github.com/LuciaMeyer/Videogames_app/tree/master) | [Web](https://appvideogames.up.railway.app/) | [Video](https://www.youtube.com/watch?v=eN4L032QNhw&feature=youtu.be) |
 <br/>
 <hr/>
 
 ### Contacto
 
-<img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Lucia Meyer" height="20" width="40" /> [LinkedIn](https://www.linkedin.com/in/lucia-meyer-65633a143/)
-
-<img align="center" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="Lucia Meyer" height="20" width="40" /> [Mail](mailto:luciameyer1603@gmail.com)
+🔗 [LinkedIn](https://www.linkedin.com/in/lucia-meyer-65633a143/)  
+📧 [Mail](mailto:luciameyer1603@gmail.com)
 
 <hr/>
+

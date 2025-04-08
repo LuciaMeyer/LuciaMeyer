@@ -32,7 +32,7 @@ Soy Full Stack Developer con formación en Diseño. Mi mayor interés dentro del
 
 #### **➜ MGO Odontología** - ```Febrero 2025```
 Sitio web institucional para Meyer Gulisano Odontología. Diseño de marca, redacción de textos y desarrollo personalizado.  
-[Repositorio](https://github.com/LuciaMeyer/MGO) | [Web](https://meyergulisano-odontologia.vercel.app/)
+[Repositorio](https://github.com/LuciaMeyer/MGO) | [Web](https://meyergulisano.com.ar/)
 
 <img src="https://res.cloudinary.com/dw272kava/image/upload/v1740153667/Projects/mgo_rqzvlv.png" alt="MGO" style="width:40%;" />
 
